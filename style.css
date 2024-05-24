@@ -33,13 +33,12 @@ img {
     text-align: justify;
 }
 
-.experience-list, .education-list, .social-media-list, .organizations-list, .skills-list {
+.experience-list, .education-list, .social-media-list, .organizations-list, .skills-list, .voluntering-list li {
     list-style: none;
     padding: 0;
 }
 
-.experience-list li, .education-list li, .social-media-list li, .organizations-list li, .skills-list li {
+.experience-list li, .education-list li, .social-media-list li, .organizations-list li, .skills-list li, .voluntering-list li {
     margin-bottom: 10px;
 }
 
-/* Sesuaikan gaya sesuai keinginan Anda */
